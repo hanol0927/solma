@@ -512,7 +512,7 @@
           "type": "File",
           "artifact": {
             "size": 15541935,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/CustomNPCs-1.16.5-0629.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/CustomNPCs-1.16.5-0629.jar",
             "MD5": "7a0ad26374f5721f2d3cab756c5017d1"
           }
         },
@@ -522,7 +522,7 @@
           "type": "File",
           "artifact": {
             "size": 2538877,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/DareHaruDareHaru-0.45.0-final.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/DareHaruDareHaru-0.45.0-final.jar",
             "MD5": "26c2de4a80165914e894248589b0bbdf"
           }
         },
@@ -532,7 +532,7 @@
           "type": "File",
           "artifact": {
             "size": 317414,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/LostTrinkets-1.16.5-0.1.27.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/LostTrinkets-1.16.5-0.1.27.jar",
             "MD5": "7ed98a2b57dfb40f44d3645260f46e51"
           }
         },
@@ -542,7 +542,7 @@
           "type": "File",
           "artifact": {
             "size": 37917,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/pixelmonutils-0.7.2.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/pixelmonutils-0.7.2.jar",
             "MD5": "3db5535b529f5ff4ef89fe3518e7bc67"
           }
         },
@@ -552,7 +552,7 @@
           "type": "File",
           "artifact": {
             "size": 51038,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/PrefixResource-1.0.0-Release.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/PrefixResource-1.0.0-Release.jar",
             "MD5": "6d312ccf9ffceb0fac760fe1543af0a7"
           }
         },
@@ -562,7 +562,7 @@
           "type": "File",
           "artifact": {
             "size": 22782,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/solma-1.0.0.jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/solma-1.0.0.jar",
             "MD5": "6f1f045a5d96a4b72ea2c38280c480bb"
           }
         },
@@ -572,7 +572,7 @@
           "type": "File",
           "artifact": {
             "size": 1907167,
-            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/VariedCommodities-1.16.5.20220618snapshot%20(1).jar",
+            "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/forgemods/required/VariedCommodities-1.16.5.20220618snapshot%20(1).jar",
             "MD5": "5f72eca71d3f2ac89d6506de9299aa45"
           }
         }
