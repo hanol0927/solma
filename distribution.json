@@ -13,7 +13,7 @@
       "description": "solma Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "26.244.92.64:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.42",
