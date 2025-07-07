@@ -341,7 +341,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": https://hanol0927.github.io/solma/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://hanol0927.github.io/solma/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -533,7 +533,7 @@
           "artifact": {
             "size": 317414,
             "url": "https://hanol0927.github.io/solma/servers/solma-1.16.5/files/mods/LostTrinkets-1.16.5-0.1.27.jar",
-            "MD5": "7ed98a2b57dfb40f44d3645260f46e51",
+            "MD5": "7ed98a2b57dfb40f44d3645260f46e51"
           }
         },
         {
